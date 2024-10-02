@@ -3,16 +3,28 @@ body {
     text-align: center;
 }
 
-h1 {
+.header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
-a {
+.link {
     font-size: 16px;
     color: aquamarine;
+}
+
+.header-middle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
 }
 
